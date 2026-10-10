@@ -26,3 +26,13 @@ npm test
 [Fetch.story.tsx](./src/Fetch.story.tsx)
 
 Very similar to [Testing Library example](https://testing-library.com/docs/react-testing-library/example-intro/#quickstart), it shows that you are probably familiar with Playwright !
+
+## Demo 2 - Live-coding
+
+Let's code a counter with the help of [Playwright VSCode extension](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright).
+
+[Counter.spec.tsx](./src/Counter.spec.tsx)
+
+[Counter.tsx](./src/Counter.tsx)
+
+We can make TDD !
