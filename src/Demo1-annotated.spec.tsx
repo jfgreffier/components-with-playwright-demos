@@ -1,5 +1,7 @@
 // import Playwright Test
 import { expect, test } from '@playwright/test';
+// That's a trick to enable watch mode !
+import './Counter.story';
 
 test('loads and displays greeting', async ({ mount }) => {
   // Render a Story

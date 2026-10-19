@@ -1,4 +1,5 @@
 import { expect, test } from '@playwright/test';
+import './Counter.story';
 
 test('loads and displays greeting', async ({ mount }) => {
   // Arrange
